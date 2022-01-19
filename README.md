@@ -1,7 +1,7 @@
 - # 👋Hey there, this Manash protim Deori 
 -
 
-- ***Welcome to my profile***
+- ## ***Welcome to my profile***
 
 - 👀 I’m interested in Data Science, Machine Learning and python 
 - 🌱 I’m currently learning Data Science
